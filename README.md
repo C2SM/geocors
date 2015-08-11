@@ -21,7 +21,7 @@
 			LazyLoad: yes
 			Packaged: 2013-06-10 07:04:31 UTC; chrigel
 
- # INSTALL
+# INSTALL
 
  ~~~R
  install.packages("devtools")
