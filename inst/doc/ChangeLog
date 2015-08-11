@@ -1,0 +1,80 @@
+version 1.2.8 2013-06-07
+
+       Update
+
+       Coordinate transformation between two different rotated pole
+       coordinate systems implemented. 
+       Bugfix in man-pages
+       (Christoph Frei)
+
+version 1.2.7 2013-05-06
+
+       Update
+
+       New coordinate transformation between Austrian ETRS UTM32 coordinates
+       and lon/lat. 
+       (Johann Hiebl and Christoph Frei)
+
+version 1.2.6 2013-05-04
+
+       Update
+
+       New coordinate transformation between Austrian ETRS89 coordinates
+       and lon/lat. 
+       (Johann Hiebl and Christoph Frei)
+
+version 1.2.5 2013-04-22
+
+       Update
+
+       Introduced non-restrictive NAMESPACE file for working with R-3.0  
+       (Christoph Frei)
+
+version 1.2.4 2013-04-03
+
+       Update
+
+       New transformation introduced between rotpol and etrs.laea.  
+       (Christoph Frei)
+
+version 1.2.3 2011-08-18
+
+       Bugfix
+
+       geocors.trafo() : correct handling of data frames with one row.  
+       (Christoph Frei)
+
+version 1.2.2 2011-02-28
+
+       Update
+
+       Convertions between swisscors and ETRS89-LAEA 
+       (Christoph Frei)
+
+version 1.2.1 2011-02-23
+
+       Introduced convertions between lonlat and ETRS89-LAEA 
+       (Christoph Frei)
+
+version 1.1.2 2010-06-25
+
+       Rebuild for R-2.11.1 
+       (Christoph Frei)
+
+version 1.1.1 2009-09-30
+
+       Bug fix. Input of simple numbers in geocors.trafo 
+       (Christoph Frei)
+
+version 1.1.0 2009-09-01
+
+       Several major changes to handling geographic coordinate attriubtes,
+       so that these can be used with any data objects not just 
+       arrays/matrices. Including consistency checks.
+       (Christoph Frei)
+
+version 1.0.1 2009-08-19
+
+       Starting off with this package
+       (Christoph Frei)
+
